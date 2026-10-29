@@ -35,15 +35,12 @@ RVSnake/
 
 ## controls
 
-| button | direction |
-|---|---|
-| btn0 | right |
-| btn1 | left |
-| btn2 | up |
-| btn3 | down |
-| rst | restart |
+btn0 – right
+btn1 – left
+btn2 – up
+btn3 – down
 
-## Running the Game
+## implementation
 
 1. open the project in vivado
 2. add sources and constraints
