@@ -25,7 +25,7 @@ snake game written in risc-v assembly, running on a custom 32-bit processor desi
 ## repository structure
 
 ```text
-RVSnake/
+risc-v-snake/
 ├── assembler/        # python assembler
 ├── constraints/      # pin and timing constraints
 ├── design sources/   # verilog modules
